@@ -31,5 +31,5 @@ jobs:
           script: ./scripts/push-theme-readme.sh
         env:
           CI: true
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          PERSONAL_TOKEN: ${{ secrets.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 }}
           GH_REPO: ${{ secrets.GH_REPO }}
