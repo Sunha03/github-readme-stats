@@ -21,4 +21,4 @@ jobs:
       - run: npm run preview-theme
         env:
           CI: true
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          PERSONAL_TOKEN: ${{ secrets.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 }}
